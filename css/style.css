@@ -1,5 +1,31 @@
+body {
+ margin: 0;
+ font-family:Arial, Helvetica, sans-serif;
+ text-align: center;
+ line-height: 1.5rem;
+ color: #333;
+
+}
+#tribute-info{
+  background-color: rgb(240, 229, 198); 
+}
+
+
 img {
   max-width: 100%;
   display: block;
   margin-left: 35%;
+}
+
+#img-caption {
+  font-style: italic;
+  font-size: 12px;
+  margin: 15px 0 5px 0;
+}
+
+ul{
+  max-width: 550px;
+  margin: 0 auto 50px auto;
+  text-align: left;
+  line-height: 1.4;
 }
